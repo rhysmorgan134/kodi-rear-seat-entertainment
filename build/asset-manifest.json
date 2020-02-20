@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.89978979.chunk.css",
+    "main.js": "./static/js/main.6fdd3ff6.chunk.js",
+    "main.js.map": "./static/js/main.6fdd3ff6.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.ee6b14a9.js",
+    "runtime~main.js.map": "./static/js/runtime~main.ee6b14a9.js.map",
+    "static/css/2.31dafeb2.chunk.css": "./static/css/2.31dafeb2.chunk.css",
+    "static/js/2.0ce7b178.chunk.js": "./static/js/2.0ce7b178.chunk.js",
+    "static/js/2.0ce7b178.chunk.js.map": "./static/js/2.0ce7b178.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.990c9f841079a484636c92dda97c515e.js": "./precache-manifest.990c9f841079a484636c92dda97c515e.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "./static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.89978979.chunk.css.map": "./static/css/main.89978979.chunk.css.map",
+    "static/media/App.css": "./static/media/anson-regular-webfont.ce985ce3.svg",
+    "static/media/index.css": "./static/media/bg.6101c8c9.jpg",
+    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
+  }
+}
