@@ -1,0 +1,9 @@
+version: 0.1.0
+files:
+  - url: Landrover-Rear-Seat-Control-0.1.0-armv7l.AppImage
+    sha512: r58nVk7zl3X4ayin9DWBxTdMZzIV76K4q2YD27lQsmuZTpjbl6T8+f+5pEIqTmn8nScuWe07LuAf/sbJ/zYfBA==
+    size: 79454076
+    blockMapSize: 85620
+path: Landrover-Rear-Seat-Control-0.1.0-armv7l.AppImage
+sha512: r58nVk7zl3X4ayin9DWBxTdMZzIV76K4q2YD27lQsmuZTpjbl6T8+f+5pEIqTmn8nScuWe07LuAf/sbJ/zYfBA==
+releaseDate: '2020-02-20T11:54:48.358Z'
